@@ -1,0 +1,51 @@
+module.exports = {
+
+    ///////////////////////// Basicas /////////////////////////
+  
+    "Preto": "#000000",
+    "Branco": "#FFFFFF",
+    "Cinza Claro": "#D3D3D3",
+    "Cinza": "#808080",
+    "Vermelho": "#FF0000",
+    "Verde": "#00FF00",
+    "Azul": "#0000FF",
+    "Amarelo": "#FFFF00",
+    "Laranja": "#FFA500",
+    "Roxo": "#800080",
+    "Rosa": "#FFC0CB",
+    "Marrom": "#A52A2A",
+    "Bege": "#FFFFF0",
+    "Ciano": "#00FFFF",
+    "Magenta": "#FF00FF",
+    "Cinza Prateado": "#C0C0C0",
+    "Branco Fumê": "#F5F5F5",
+    "Azul Marinho": "#000080",
+    "Verde Água": "#008080",
+    "Dourado": "#FFD700",
+    "Oliva": "#808000",
+    "Vermelho Escuro": "#800000",
+    "Vermelho Rosa": "#C71585",
+    "Tomate": "#FF6347",
+    "Azul Aço": "#4682B4",
+    "Chocolate": "#D2691E",
+    "Verde Amarelo": "#ADFF2F",
+    "Laranja Vermelho": "#FF4500",
+    "Verde Mar": "#2E8B57",
+    "Azul Cadete": "#5F9EA0",
+    "Caqui": "#F0E68C",
+    "Verde Limão": "#7FFF00",
+    "Verde Floresta": "#7CFC00",
+    "Verde Primavera": "#00FF7F",
+    "Vermelho Forte": "#FF1493",
+    "Vermelho Escuro": "#B22222",
+    "Vermelho Claro": "#F08080",
+    "Cinza": "#C0C0C0",
+    "Rosa Chocotone": "#C71585",
+  
+  ///////////////////////// Utils /////////////////////////
+    "Padrao": "#2b2d31",
+    "Sucesso": "#28A745",
+    "Erro": "#FF4444",
+    "Warn": "#FFA500"
+  };
+  

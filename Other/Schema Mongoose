@@ -1,0 +1,26 @@
+const mongoose = require('mongoose');
+
+const Models = new mongoose.Schema({
+  String: {
+    type: String,
+    required: true,
+  },
+  boolean: {
+    type: Boolean,
+    default: true,
+  },
+  Date: {
+    type: Date,
+    default: Date.now,
+  },
+  Number: { 
+    type: Number, 
+    default: 0 
+  },
+
+});
+
+// Criação do modelo
+const Model = mongoose.model('Medelo', Models);
+
+module.exports = Model;
